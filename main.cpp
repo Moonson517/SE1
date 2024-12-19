@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std; // Программа учебная.
+using namespace std; // Программа учебная. Автор Морозов Никита. Студент группы КЭ-217. 2024 Год
 
 int main() {
     int num1, num2;
